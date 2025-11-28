@@ -8,12 +8,11 @@
 
 <img width="663" height="713" alt="Screenshot 2025-11-28 214332" src="https://github.com/user-attachments/assets/effea947-804d-449c-ad6c-7081ee9cdf23" />
 
----
-
 ## Light Mode
 
 <img width="581" height="709" alt="Screenshot 2025-11-28 214416" src="https://github.com/user-attachments/assets/b3b8e1b8-00e3-4724-8141-73bfe2d28c0c" />
 
+---
 
 # 🚀 XelaWeather Dashboard
 
